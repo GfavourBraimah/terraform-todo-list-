@@ -56,7 +56,7 @@ graph TD
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/devops-todo-list.git
+git clone https://github.com/GfavourBraimah/terraform-todo-list-
 cd devops-todo-list/terraform
 ```
 
@@ -104,10 +104,10 @@ After deployment completes, access your app via:
 
 ## 📝 Deliverables
 
-- **Terraform configuration files:**
-  - `main.tf`
-  - `variables.tf`
-  - `outputs.tf`
+**Terraform configuration files:**
+  - [main.tf](./terraform/main.tf)
+  - [variables.tf](./terraform/variables.tf)
+  - [outputs.tf](./terraform/outputs.tf)
 - **Terraform apply output logs**
 ![Terraform](./images/terraform.png)
 ![S3 bucket](./images/React%20App%20-%20Google%20Chrome%206_19_2025%209_51_06%20AM.png)
